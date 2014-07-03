@@ -1,0 +1,3 @@
+crm_crm_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CrmCrmBundle:Default:index }

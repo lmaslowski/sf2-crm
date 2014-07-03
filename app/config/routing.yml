@@ -1,0 +1,8 @@
+crm_invoice:
+    resource: "@CrmInvoiceBundle/Resources/config/routing.yml"
+    prefix:   /
+
+crm_crm:
+    resource: "@CrmCrmBundle/Resources/config/routing.yml"
+    prefix:   /
+
